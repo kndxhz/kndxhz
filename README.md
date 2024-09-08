@@ -9,7 +9,7 @@
 ### 联系我 📫
 请根据主页左侧的链接来联系我
 ### 我的贡献 🚀
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kndxhz&show_icons=true&theme=ambient_gradient&locale=cn&hide_border=true&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kndxhz&show_icons=true&theme=ambient_gradient&locale=cn&hide_border=true&count_private=true)</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kndxhz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kndxhz/kndxhz/output/github-contribution-grid-snake-dark.svg">
