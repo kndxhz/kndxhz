@@ -10,7 +10,7 @@ I’m a student passionate about programming and full of enthusiasm for learning
 - HTML  
 
 ### Contact Me 📫  
-Please refer to the links on the left side of the homepage to get in touch.  
+Please contact me through the contact information on my GitHub profile.
 
 ### My Contributions 🚀  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kndxhz&show_icons=true&theme=ambient_gradient&locale=en&hide_border=true&count_private=true)</br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kndxhz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
