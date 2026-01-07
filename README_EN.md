@@ -23,7 +23,7 @@ Please contact me through the contact information on my GitHub profile.
 
 ### My Contributions 🚀  
 <p align="center">
-  <img src="https://github-status.kndxhz.cn/api?username=kndxhz&show_icons=true&theme=ambient_gradient&locale=cn&hide_border=true&count_private=true" width="390" />
+  <img src="https://github-status.kndxhz.cn/api?username=kndxhz&show_icons=true&theme=ambient_gradient&locale=en&hide_border=true&count_private=true" width="390" />
   <img src="https://github-status.kndxhz.cn/api/top-langs/?username=kndxhz&layout=compact" width="390" />
 </p>
 <picture>  
