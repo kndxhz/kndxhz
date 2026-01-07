@@ -22,8 +22,10 @@ I’m a student passionate about programming and full of enthusiasm for learning
 Please contact me through the contact information on my GitHub profile.
 
 ### My Contributions 🚀  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kndxhz&show_icons=true&theme=ambient_gradient&locale=en&hide_border=true&count_private=true)</br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kndxhz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
-
+<p align="center">
+  <img src="https://github-status.kndxhz.cn/api?username=kndxhz&show_icons=true&theme=ambient_gradient&locale=cn&hide_border=true&count_private=true" width="390" />
+  <img src="https://github-status.kndxhz.cn/api/top-langs/?username=kndxhz&layout=compact" width="390" />
+</p>
 <picture>  
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kndxhz/kndxhz/output/github-contribution-grid-snake-dark.svg">  
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kndxhz/kndxhz/output/github-contribution-grid-snake.svg">  
