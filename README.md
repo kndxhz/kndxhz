@@ -22,8 +22,8 @@
 请根据主页左侧的链接来联系我
 ### 我的贡献 🚀
 <p align="center">
-  <img src="https://github-status.kndxhz.cn/api?username=kndxhz&show_icons=true&theme=ambient_gradient&locale=cn&hide_border=true&count_private=true" width="390" />
-  <img src="https://github-status.kndxhz.cn/api/top-langs/?username=kndxhz&layout=compact" width="390" />
+  <img src="https://github-status.kndxhz.cn/api?username=kndxhz&show_icons=true&theme=ambient_gradient&locale=cn&hide_border=true&count_private=true" width="390" height="216"/>
+  <img src="https://github-status.kndxhz.cn/api/top-langs/?username=kndxhz&layout=compact" width="390" height="216"/>
 </p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kndxhz/kndxhz/output/github-contribution-grid-snake-dark.svg">
